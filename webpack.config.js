@@ -78,6 +78,11 @@ var config = {
 		minimizer: [
 			// Code minimization (production mode only)
 			new UglifyJSPlugin({
+				uglifyOptions: {
+					compress: {
+						drop_console: true
+					}
+				},
 				sourceMap: true
 			})
 		]

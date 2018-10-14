@@ -18,6 +18,9 @@ This plugin is also meant as a starting point for the development of own WordPre
 	* Babel, BrowserSync, ESLint and code minimization.
 
 
+![Screenshot of settings page (left) and frontend output (right).](https://user-images.githubusercontent.com/22611603/46914384-0544a500-cf9d-11e8-8f02-91534c7768b5.jpg)
+
+
 ## Installation
 
 *Prerequisites:* Node.js must be installed – visit the [Node.js website](https://nodejs.org) for installation instructions or use NVM (recommended).
